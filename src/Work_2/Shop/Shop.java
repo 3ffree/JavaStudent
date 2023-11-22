@@ -90,7 +90,7 @@ public class Shop {
         }*/
     }
 
-    private Node root;
+    private final Node root;
 
     public Shop() {
         this.root = new Node(null, null, null);
