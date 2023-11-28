@@ -1,4 +1,4 @@
-package Work_1;
+package Work_1.Task_5;
 import java.util.Scanner;
 
 public class Task_5 {

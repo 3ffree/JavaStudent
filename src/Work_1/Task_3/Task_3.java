@@ -1,4 +1,4 @@
-package Work_1;
+package Work_1.Task_3;
 
 public class Task_3 {
 

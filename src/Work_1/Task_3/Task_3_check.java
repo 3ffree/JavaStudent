@@ -1,4 +1,6 @@
-package Work_1;
+package Work_1.Task_3;
+import Work_1.Task_3.Task_3;
+
 import java.util.Scanner;
 
 public class Task_3_check {
