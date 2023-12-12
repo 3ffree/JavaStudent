@@ -15,6 +15,7 @@ public class Sort {
         }
 
         public void siftUp(Double value) {
+
             this.array[this.current++] = value;
             int i = this.current - 1;
 

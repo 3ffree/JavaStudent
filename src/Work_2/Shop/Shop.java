@@ -2,7 +2,7 @@ package Work_2.Shop;
 
 
 /* I used binary search tree just to make things a little bit more difficult for myself
-   In this case its more reasonable to use simple database, not tree.
+   In this case its more reasonable to use simple array, not tree.
  */
 
 /* We will be using price as key there, that means, that search operation with key "Price"
