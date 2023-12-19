@@ -46,7 +46,6 @@ public class Tester {
         int age;
         String name;
         //Garbage is used to collect \n symbol that is left in an input stream
-        String garbage;
         LinkedList.Node<Student> found = null;
 
         Mode m = Mode.begin;

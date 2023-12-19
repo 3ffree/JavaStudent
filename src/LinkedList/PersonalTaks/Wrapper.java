@@ -1,6 +1,6 @@
 package LinkedList.PersonalTaks;
 import LinkedList.OneWayLinked.LinkedList;
-public class Wrapper extends LinkedList<DataType> {
+public final class Wrapper extends LinkedList<DataType> {
 
     public void addNumber(int number) throws EmptyListException {
         if (this.isEmpty()) {
